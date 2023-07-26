@@ -1,0 +1,58 @@
+body{
+    width: 100vh;
+    height: 100vh;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_D94S-tPgrrkX03bwNl4ctPSW2egdWLhO5w&usqp=CAU");
+
+    margin-left: 35%;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    margin-left: 50px;
+}
+.main{
+    height: 100vh;
+    width: 100vh;
+    padding: 100px;
+
+}
+#id2{
+    height: 30px;
+    width: 300px;
+    border: 2px solid burlywood;
+    color: white;
+    text-align: center;
+    background-color:blue;
+}
+#result{
+    height: 30px;
+    width: 300px;
+    color: black;
+    text-align: center;
+    background-color: burlywood;
+    border: 2px solid blue;
+}
+button{
+    background-color:purple;
+    height: 30px;
+    width: 150px;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid green;
+}
+.equals{
+    width: 300px;
+    background-color: blue;
+    color: white;
+    border: 2px solid burlywood;
+}
+#id1{
+    height: 30px;
+    width: 300px;
+    color: white;
+    background-color: blue;
+    border: 2px solid burlywood;
+    text-align: center;
+}
